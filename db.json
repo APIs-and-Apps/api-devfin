@@ -1,0 +1,54 @@
+{
+  "accounts": [],
+  "facts": [
+    {
+      "id": 1,
+      "accountId": 1,
+      "date": "2017-01-01", 
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 2,
+      "accountId": 1,
+      "date": "2017-01-15",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 3,
+      "accountId": 1,
+      "date": "2017-01-02",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 4,
+      "accountId": 1,
+      "date": "2017-01-10",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 5,
+      "accountId": 1,
+      "date": "2017-01-03",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 6,
+      "accountId": 1,
+      "date": "2017-01-28",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    },
+    {
+      "id": 7,
+      "accountId": 1,
+      "date": "2017-01-01",
+      "amount": 10.15,
+      "description": "Café da tarde"
+    }
+  ]
+}
